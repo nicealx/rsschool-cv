@@ -2,8 +2,8 @@
 ***
   
 ## Contacts ##
-[@nicealx](https://t.me/nicealx)
-[kav.prok@gmail.com](mailto:kav.prok@gmail.com)
+* **Telegram:** [@nicealx](https://t.me/nicealx)
+* **Email:** [kav.prok@gmail.com](mailto:kav.prok@gmail.com)
 
 ***  
 ## About me ##
@@ -31,8 +31,14 @@ function digitalRoot(n) {
 
   return Number(n);
 }
-```  
+```
 
+***
+## Work Experience ##
+* Practical layout [Realco](https://nicealx.github.io/Realco/)
+* Practical layout (with Bootsrap) [Creatives](https://nicealx.github.io/creative/)
+* Production layout [Genergy](https://nicealx.github.io/GEnergy/)
+  
 ***
 ## Courses ##
 
