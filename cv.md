@@ -1,4 +1,4 @@
-# Alexey Kurtukov
+# Aleksei Kurtukov
 ***
   
 ## Contacts ##
